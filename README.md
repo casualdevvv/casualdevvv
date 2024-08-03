@@ -3,12 +3,12 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://casualdev.wtf/assets/images/Frame%2010.png"  />
+  <img height="200" src="https://casualdev.wtf/assets/images/github.png"  />
 </div>
 
 ###
 
-<p align="left">I'm CasualDev and I live in the United States! I enjoy playing osu and VR games</p>
+<p align="left">I'm CasualDev and I live in the United States! I'm currently working on a few different projects.</p>
 
 ###
 
